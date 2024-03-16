@@ -1,2 +1,1 @@
-# Samad
-this is my portfolio
+Personal Static Website
